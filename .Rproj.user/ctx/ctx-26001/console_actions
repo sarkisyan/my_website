@@ -1,0 +1,34 @@
+{
+    "type": [
+        2,
+        2,
+        3,
+        3,
+        2,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        2
+    ],
+    "data": [
+        "\nR version 3.6.1 (2019-07-05) -- \"Action of the Toes\"\nCopyright (C) 2019 The R Foundation for Statistical Computing\nPlatform: x86_64-apple-darwin15.6.0 (64-bit)\n\nR is free software and comes with ABSOLUTELY NO WARRANTY.\nYou are welcome to redistribute it under certain conditions.\nType 'license()' or 'licence()' for distribution details.\n\n  Natural language support but running in an English locale\n\nR is a collaborative project with many contributors.\nType 'contributors()' for more information and\n'citation()' on how to cite R or R packages in publications.\n\n",
+        "Type 'demo()' for some demos, 'help()' for on-line help, or\n'help.start()' for an HTML browser interface to help.\nType 'q()' to quit R.\n\n",
+        "Warning message:\n",
+        "package ‘RPostgres’ was built under R version 3.6.2 \n",
+        "[Workspace loaded from ~/Desktop/MSU/программирование/R/website/.RData]\n\n",
+        "> ",
+        "packs = as.data.frame(installed.packages(.libPaths()[1]), stringsAsFactors = F)",
+        "> ",
+        "",
+        "> ",
+        "## and now re-install install packages using install.packages()",
+        "> ",
+        "install.packages(packs$Package)",
+        "Error in install.packages : Updating loaded packages\n\nRestarting R session...\n\n"
+    ]
+}
