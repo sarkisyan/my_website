@@ -1,6 +1,8 @@
 ---
 title: "The Impact of the Deposit Channel on the International Transmission of Monetary Shocks"
-authors: ["Sergey Sarkisyan", "Tasaneeya Viratyosin"]
+authors:
+- admin
+- tasaneeya
 dat: "2021-09-16T00:00:00Z"
 doi: ""
 

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Working papers | Sergey Sarkisyan</title>
-    <link>https://www.ssarkisyan.com/publication/</link>
-      <atom:link href="https://www.ssarkisyan.com/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Working papers</description>
+    <title>0 | Sergey Sarkisyan</title>
+    <link>https://www.ssarkisyan.com/publication-type/0/</link>
+      <atom:link href="https://www.ssarkisyan.com/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.ssarkisyan.com/media/icon_hu6d66f09efe310b8ad7f3209e7ee864ae_219506_512x512_fill_lanczos_center_2.png</url>
-      <title>Working papers</title>
-      <link>https://www.ssarkisyan.com/publication/</link>
+      <title>0</title>
+      <link>https://www.ssarkisyan.com/publication-type/0/</link>
     </image>
     
     <item>
