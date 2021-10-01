@@ -2,11 +2,7 @@
 title: "The Impact of the Deposit Channel on the International Transmission of Monetary Shocks"
 authors:
 - admin
-<<<<<<< HEAD
 - tasaneeya
-=======
-- Tasaneeya Viratyosin
->>>>>>> 3a0af7c6dc727abf5c9eef1686612c23d6f3d842
 dat: "2021-09-16T00:00:00Z"
 doi: ""
 
@@ -30,7 +26,7 @@ featured: false
 
 links:
 - name: Last draft
-  url: "paper.pdf"
+  url: "intl_dep_channel.pdf"
 url_pdf: 
 url_code: ''
 url_dataset: ''

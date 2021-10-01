@@ -9,4 +9,5 @@ role: ''
 superuser: false
 title: Tasaneeya Viratyosin
 external_link: https://www.viratyosin.net
+latest: false
 ---
