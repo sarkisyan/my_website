@@ -12,7 +12,7 @@ main:
     weight: 40
   - name: "CV"
     url: "media/cv.pdf"
-    weight: 50
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70

@@ -25,8 +25,12 @@ abstract: What role do bank deposits play in the international transmission of U
 featured: false
 
 links:
+- name: SSRN
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3938284
 - name: Last draft
   url: "intl_dep_channel.pdf"
+- name: Slides
+  url: "intl_dep_channel_slides.pdf"
 url_pdf: 
 url_code: ''
 url_dataset: ''

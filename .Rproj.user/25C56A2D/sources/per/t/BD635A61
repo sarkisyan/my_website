@@ -3,23 +3,23 @@
     "path": "~/Desktop/MSU/программирование/R/website/config/_default/menus.yaml",
     "project_path": "config/_default/menus.yaml",
     "type": "yaml",
-    "hash": "2268383310",
+    "hash": "2689177088",
     "contents": "",
     "dirty": false,
     "created": 1631987908830.0,
     "source_on_save": false,
     "relative_order": 7,
     "properties": {
-        "cursorPosition": "11,14",
+        "cursorPosition": "17,13",
         "scrollLine": "0",
         "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1631987974,
+    "lastKnownWriteTime": 1633636772,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1631987974686,
+    "last_content_update": 1633636772475,
     "read_only": false,
     "read_only_alternatives": []
 }
